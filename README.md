@@ -2,6 +2,7 @@
 
 A custom, hand-designed Tenkeyless (TKL / 80%) mechanical keyboard built for the [Hack Club KEEB] program.
 
+# Photos Are on the Photos Folder
 ---
 
 ##  Project Overview
